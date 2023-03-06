@@ -15,3 +15,6 @@
 
 # How
 > 100% working implementation to be announced over `git://` only after it'd work as expected. Till then, for quick/easy patches it'll be encoded within a digital form.
+
+# Note: PoW / Proof of Work has been adopted  from within nostr-protocol along with its nips-13.
+https://github.com/nostr-protocol/nips/blob/master/13.md
